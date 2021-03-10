@@ -1,5 +1,5 @@
 # cars-web-app
-Web app coded in java for ordering a vehicle
+Web app coded in java for ordering a vehicle.
 Database created using MySQL containing few car makes, model, color and price. 3 tables (cars, ModelColors, prices) in the schema of the database.
 
 
